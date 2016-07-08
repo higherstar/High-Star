@@ -1,0 +1,69 @@
+#customize-controls .description {
+    background-color: #E8E8E8;
+    padding: 6px;
+    border-radius: 4px;
+    font-size: 11px !important;
+    font-weight: 300;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.dotted-below {
+    border-bottom: 1px dotted;
+    padding-bottom: 3px;
+}
+
+.dotted-above {
+    padding-top: 3px;
+    border-top: 1px dotted;
+}
+
+/* PRO Version CSS below */
+#accordion-section-pixova_lite_pro_section .accordion-section-content {
+    padding: 10px;
+}
+
+.upgrade,
+.review,
+.document {
+    color: #777 !important;
+    cursor: pointer;
+    display: inline-block;
+    margin-bottom: 0;
+    font-size: 13px;
+    padding: 15px 10px;
+    text-transform: uppercase;
+    width: 90%;
+    border-radius: 4px;
+    font-weight: 600;
+}
+.document{
+    border: 1px solid rgb(226, 81, 54);
+}
+.document:hover {
+    background-color: rgb(226, 81, 54);
+    color: #FFF !important;
+}
+
+.upgrade {
+    border: 1px solid #2ecc71;
+}
+.upgrade:hover {
+    background-color: #2ecc71;
+    color: #FFF !important;
+}
+
+.pro-box {
+    text-align:center;
+}
+
+.pro-version {
+    text-align: center;
+    margin: 15px auto;
+}
+
+.pro-version p{
+    line-height: 1.5;
+}
